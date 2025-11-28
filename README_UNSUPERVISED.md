@@ -46,4 +46,4 @@ Explicabilidad: Permite al negocio entender no solo el score de riesgo, sino el 
 
 ------------
 
-Autor: Vicente Vásquez Caro
+Autor: Benjamin Sandoval
