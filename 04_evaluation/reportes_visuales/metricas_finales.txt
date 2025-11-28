@@ -1,0 +1,13 @@
+REPORTE DE EVALUACIÓN DEL MODELO
+================================
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.71      0.81     56538
+           1       0.17      0.68      0.27      4965
+
+    accuracy                           0.70     61503
+   macro avg       0.57      0.69      0.54     61503
+weighted avg       0.90      0.70      0.77     61503
+
+AUC-ROC Score: 0.7618
